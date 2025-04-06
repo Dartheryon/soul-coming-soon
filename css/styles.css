@@ -10914,6 +10914,10 @@ video.bg-video {
   padding: calc(1rem + 2px);
 }
 
+.negrita {
+  font-weight: bold;
+}
+
 @media (min-width: 992px) {
   .masthead {
     height: 100%;
